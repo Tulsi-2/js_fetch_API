@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+table, th, td {
+    border: 2px solid rgb(29, 82, 146);
+  }
+
+.data{
+    margin-left:auto;
+    margin-right: auto;
+}
+table, th , tr,td{
+    text-align: center;
+   
+  }
+
+body{
+  background-color: rgb(80, 105, 172);
+}
+.data{
+  background-color: rgb(161, 227, 237);
+}
+
